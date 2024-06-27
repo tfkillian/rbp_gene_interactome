@@ -45,5 +45,11 @@ docs/
 # translation temp files
 po/*~
 
+# jupyter checkpoints
+./ipynb_checkpoint
+
+# who knows
+.DS_Store
+
 # RStudio Connect folder
 rsconnect/
